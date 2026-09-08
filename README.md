@@ -165,7 +165,7 @@ supply-chain-delivery-performance-analysis/
 
 A detailed report containing the complete analysis, findings, predictive modeling results, and recommendations is available in the `reports` folder.
 
-**[View the Detailed Supply Chain Performance Report](reports/supply_chain_delivery_performance_report.pdf)**
+**[View the Detailed Supply Chain Performance Report](Supply_Chain_Performance_Report.pdf)**
 
 ## 📓 Notebook
 
