@@ -171,7 +171,7 @@ A detailed report containing the complete analysis, findings, predictive modelin
 
 The complete analysis and modeling workflow is available in:
 
-`notebooks/supply_chain_analysis.ipynb`
+`Supply Chain_Analysis.ipynb`
 
 The notebook covers data preparation, exploratory analysis, KPI development, bottleneck analysis, root-cause analysis, time-based analysis, and predictive modeling.
 
